@@ -71,3 +71,10 @@ In this case, we can see how many rides were recorded for each type of customer.
 To put together a strong presentation for the investors, its important to find out what might the key costs be in a bike-share business? We can mull over this question until inspiration strikes: beyond the initial setup, bike maintenance will likely be one of the biggest expenses. A likely concern of investors is the cost of bike upkeep. The bikes used most frequently will probably be the ones that require the most maintenance, so we'll need to determine which bikes have the highest sum of "Number of Rides". We can create a treemap to get an idea of how often each bike is used, and then note which ones are used most frequently.
 
 ![image](https://user-images.githubusercontent.com/105535250/193982426-224e87b0-df25-4000-8b2a-ea7187491274.png)
+
+## Potential Suggestions
+The trends found in the visualizations indicate clearly that the NYCS bike shares program could be a huge success in an active population.Des moines seems to be a good prospect for this program.Althought the following suggestions have to be thought about:
+
+* An analysis of an active population vs the population of the state needs to be graphed to understand what sort of market strategy the company needs for the specific city.
+* An additional vizualization between average trip duration and usage during different times in the year. Although we've only used the August data it is definitely important to understand and compare all throughout the year. 
+Footer
